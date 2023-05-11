@@ -1,0 +1,56 @@
+
+
+.closeButton{
+    border-radius: 5px;
+    border: 0px;
+    width: 25px;
+    height: 25px;
+    background: #00b5cd;
+    color: #1e2838;
+    margin-left: 85%;
+    margin-bottom: 15px;
+    padding: auto;
+
+}
+
+.closeButton:hover{
+    background: #b3e028;
+    
+}
+.divCard{
+    width: fit-content;
+    background-color: #b5b5b5;
+    padding: 1em;
+    flex-direction: flex;
+    border-radius: 20px;
+    margin: 1em;
+    border: 2.5px solid rgba(255, 255, 255, 0.55);
+
+
+    
+}
+
+.divCard:hover{
+    box-shadow: 9px 9px 3px -3px rgba(0,0,0,0.23);
+    -webkit-box-shadow: 9px 9px 3px -3px rgba(0,0,0,0.23);
+    -moz-box-shadow: 9px 9px 3px -3px rgba(0,0,0,0.23);
+    background-color:#ffffff;
+}
+.text{
+    color: #00b5cd;
+    font-size: medium;
+}
+
+.textName{
+    color: #b3e028;
+    font-size: x-large;
+}
+
+.image{
+    padding: auto;
+    opacity: 60%;
+}
+
+.image:hover{
+    opacity: 100%;
+}

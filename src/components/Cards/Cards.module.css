@@ -1,0 +1,8 @@
+.divCards{
+    display: flex;
+    flex-direction:auto;
+    margin:auto;
+    width: auto;
+    background-color: #b5b5b5;
+    
+}
