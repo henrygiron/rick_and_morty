@@ -10,6 +10,9 @@ const Nav = ({ onSearch }) => {
       <Link to="/about">
         <button>About</button>
       </Link>
+      <Link to="/favorites">
+        <button>Favorites</button>
+      </Link>
       <SearchBar onSearch={onSearch} />
     </nav>
   );
